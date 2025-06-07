@@ -17,5 +17,5 @@ The pipeline performs the following:
 
 ---
 
-## 📁 Folder Structure
+
 
