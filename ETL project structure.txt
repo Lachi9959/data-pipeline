@@ -1,0 +1,13 @@
+etl_project/
+│
+├── data/
+│   └── sales_data.csv              # Raw input data
+│
+├── output/
+│   └── processed_sales_data.csv    # Transformed output data
+│
+├── etl_pipeline.py                 # Main ETL script (Python)
+│
+├── README.md                       # Project description & instructions
+│
+└── requirements.txt                # List of dependencies
